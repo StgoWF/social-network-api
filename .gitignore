@@ -1,0 +1,22 @@
+# Node modules directory
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directory for debugging
+/.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+.idea
+*.sublime-project
+*.sublime-workspace
