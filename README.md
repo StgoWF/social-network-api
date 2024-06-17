@@ -84,12 +84,17 @@ Use Insomnia, Postman, or a similar tool to test the API endpoints.
 ## Walkthrough Video
 [Watch the walkthrough video](https://drive.google.com/file/d/1oNrxSLwj81B6VU0iGixAh2g9Hb5ub8w9/view)
 
+
 ## Technologies Used
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
 - Insomnia
+
+## Repository
+
+The code for social-network-api can be found at the following [GitHub Repository](https://github.com/StgoWF/social-network-api).
 
 ## License
 This project is licensed under the MIT License.
@@ -99,4 +104,3 @@ This project is licensed under the MIT License.
 - Email: stgoweinsteinf@gmail.com
 
 
-https://drive.google.com/file/d/1oNrxSLwj81B6VU0iGixAh2g9Hb5ub8w9/view
